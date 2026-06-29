@@ -51,9 +51,28 @@ Run the game
 
 python main.py
 
-«Note: If your main file has a different name, replace "main.py" with the correct filename.»
+---
+
+📸 Screenshots
+
+🏠 "Main Screen" (https://github.com/1nsaned/Galaxy-Shooter/blob/main/IMG_20260628_212200.jpg)
+
+"Main Screen" (https://github.com/1nsaned/Galaxy-Shooter/blob/main/IMG_20260628_212200.jpg?raw=true)
+
+⏸️ "Pause Screen" (https://github.com/1nsaned/Galaxy-Shooter/blob/main/IMG_20260628_212444.jpg)
+
+"Pause Screen" (https://github.com/1nsaned/Galaxy-Shooter/blob/main/IMG_20260628_212444.jpg?raw=true)
+
+▶️ "Restart Screen" (https://github.com/1nsaned/Galaxy-Shooter/blob/main/IMG_20260628_170521.jpg)
+
+"Restart Screen" (https://github.com/1nsaned/Galaxy-Shooter/blob/main/IMG_20260628_170521.jpg?raw=true)
+
+⏯️ "Game Paused" (https://github.com/1nsaned/Galaxy-Shooter/blob/main/IMG_20260628_172524.jpg)
+
+"Game Paused" (https://github.com/1nsaned/Galaxy-Shooter/blob/main/IMG_20260628_172524.jpg?raw=true)
 
 ---
+
 📚 What I Learned
 
 Building this project helped me improve my skills in:
