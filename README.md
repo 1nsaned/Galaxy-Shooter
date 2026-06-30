@@ -2,10 +2,10 @@
 
 A 2D space shooter built in Python, where you dodge and blast your way through waves of enemies and a boss using a mouse-aimed ship.
 
-![Galaxy Shooter gameplay](screenshot.png)
+![Galaxy Shooter gameplay](IMG_20260628_170521.jpg)
 <!-- swap this with an actual screenshot or gif of your gameplay -->
 
-**[Try it here](your-demo-link-goes-here)**
+**[Try it here] :- will upload link once I get my laptop with me again 
 
 ## Quick start
 
